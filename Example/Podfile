@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Algorithms_Example' do
+  pod 'Algorithms', :path => '../'
+
+  target 'Algorithms_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
