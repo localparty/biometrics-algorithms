@@ -1,0 +1,16 @@
+PODS:
+  - Algorithms (0.1.0)
+
+DEPENDENCIES:
+  - Algorithms (from `../`)
+
+EXTERNAL SOURCES:
+  Algorithms:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Algorithms: 4e0fafd42440a3d3851f61f137812d1fc3622b37
+
+PODFILE CHECKSUM: a1b1d9cca97f5c2a81dd7ef04accf55bb37c2de6
+
+COCOAPODS: 1.5.3
